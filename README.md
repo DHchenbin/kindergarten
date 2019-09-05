@@ -1,15 +1,8 @@
 <html lang="zn_CN"> <head> <meta charset='utf-8'> <title>同济幼儿园2019届小一班公告栏</title> </head> <body>
 
-MyVertica中文社区说明
+小一班公告栏
 ==========
-这里是Vertica爱好者关于Vertica相关技术交流、学习和互助的社区，不负责Vertica售后支持。
-
-关于售后支持: 对于Vertica正式客户，建议中文邮件通过  china_vertica_support@hpe.com 咨询（verticahelp@hpe.com只接受英文邮件），他们是专职的中文支持团队，响应会更即时。
-
- - china_vertica_support@hpe.com: 9x5, Chinese
- - verticahelp@hpe.com: 7x24 for production issues, English
- - production critical issue support: 1-877-669-1295 or 1-617-386-4500, English. 
-
+这里是2019届统计幼儿园小一班的公告栏，包括亲子活动、财务支出等。
 
 相关连接
 ----------
